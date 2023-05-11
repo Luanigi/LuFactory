@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lufactory/static/css/main.16225b48.css",
+    "main.js": "/lufactory/static/js/main.054bd5fc.js",
+    "static/js/787.27ee5839.chunk.js": "/lufactory/static/js/787.27ee5839.chunk.js",
+    "index.html": "/lufactory/index.html",
+    "main.16225b48.css.map": "/lufactory/static/css/main.16225b48.css.map",
+    "main.054bd5fc.js.map": "/lufactory/static/js/main.054bd5fc.js.map",
+    "787.27ee5839.chunk.js.map": "/lufactory/static/js/787.27ee5839.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16225b48.css",
+    "static/js/main.054bd5fc.js"
+  ]
+}
